@@ -1,5 +1,4 @@
-pasta cd/sua_pasta/fiap-flutter/
-```
+
 
 ```
 git clone https://github.com/lersilva/fiap-flutter.git
@@ -7,7 +6,7 @@ git clone https://github.com/lersilva/fiap-flutter.git
 
 Em seguida, localize o projeto em seu sistema e abra com o android studio ou Vscode ou intellij IDE.
 
-Para correr:
+Para gerenciar dependencias:
 ```
 C:\path\to\project> flutter pub get
 
